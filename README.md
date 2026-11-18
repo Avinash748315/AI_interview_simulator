@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Clarivo — AI Interview Simulator
 
 Clarivo is a full-stack, enterprise-grade AI mock interview simulator designed for engineering students, fresh graduates, and experienced software professionals preparing for technical, HR, and behavioral rounds.
@@ -174,3 +175,6 @@ NEXT_PUBLIC_API_URL=http://localhost:8000
 - **Product & Management:** Product Manager, Business Analyst, IT Project Manager, Operations Manager, Product Support Specialist.
 - **Design:** UX/UI Designer, Graphic Designer.
 - **Business & HR:** HR Manager, Recruiter, Marketing Manager, Digital Marketer, Brand Manager, Sales Executive, Account Manager, Finance Analyst, Accountant, Content Writer, Customer Success Manager.
+=======
+# AI_interview_simulator
+>>>>>>> 7e85854d91e562ece76ff237683b93dc35d2ca8a
